@@ -1,0 +1,5 @@
+imagetwist.com##center > center
+imagetwist.com##.text-center
+
+@@||macbed.com^$generichide
+
