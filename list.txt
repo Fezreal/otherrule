@@ -1,3 +1,5 @@
+dilidili.wang##script:inject(abort-on-property-read.js, $.ajax)
+
 imagetwist.com##center > center
 imagetwist.com##.text-center
 
