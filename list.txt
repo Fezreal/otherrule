@@ -17,3 +17,5 @@ dato.porn##[id^="dummyid"]
 
 ||avgle.com/cdn-cgi/apps/head/
 ||avgle.com/templates/frontend/bab.js$script
+
+@@||aliyun.com/captcha/checkcode.jsonp
