@@ -19,3 +19,7 @@ dato.porn##[id^="dummyid"]
 ||avgle.com/templates/frontend/bab.js$script
 
 @@||aliyun.com/captcha/checkcode.jsonp
+
+@@||shyav.com^$generichide
+shyav.com###embedADS
+@@||openload.co/assets/js/script.234.js
