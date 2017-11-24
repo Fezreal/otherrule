@@ -24,3 +24,5 @@ avgle.com###player_3x2_close
 @@||shyav.com^$generichide
 shyav.com###embedADS
 @@||openload.co/assets/js/script.234.js
+
+||pussl2.com^
