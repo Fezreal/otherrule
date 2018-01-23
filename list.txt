@@ -15,22 +15,8 @@ dato.porn##[id^="dummyid"]
 @@||maxcdn.bootstrapcdn.com/bootstrap/*/js/bootstrap.min.js$script,domain=dato.porn
 @@||dato.porn/js/pop.js$script,~third-party
 
-||avgle.com/templates/frontend/bab.js$script
 |javascript^$popup
 about:$popup,domain=avgle.com
-||avgle.com/avideos.js
-||avgle.com/cdn-cgi/apps/head/
-||avgle.com/templates/frontend/p2p.js
-||avgle.com/images.php
-||avgle.com/images/av/
-avgle.com##div[style^="height: 120px; width: 240px; z-index:"]
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=avgle.com
-|http://$image,script,subdocument,third-party,domain=avgle.com
-|https://$image,script,subdocument,third-party,domain=avgle.com
-||avgle.com/images/av/b.mp4
-avgle.com###aoverlay
-@@||ads.exosrv.com^$script,domain=avgle.com
-avgle.com###blocked-if
 
 @@||aliyun.com/captcha/checkcode.jsonp
 
